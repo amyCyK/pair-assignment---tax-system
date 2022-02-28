@@ -1,8 +1,3 @@
-#Draft from Amy 25.02.2022
-#Sample: https://www.ird.gov.hk/eng/ese/st_comp_2020_21_budget/stcfrm.htm
-#MPF GOrv:https://www.gov.hk/en/residents/taxes/salaries/allowances/deductions/mpf.htm
-#240000 480000 13000 38950
-#288000 mpf=14400 result=8160
 import numpy as np
 def calculateTax(income):
     tax = 0.0
